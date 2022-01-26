@@ -2,7 +2,7 @@
 
 My name is Felipe Augusto, I'm a Brazilin sofware developer/ios engineer currently living in São Paulo, BR.
 I'm working as an IOS developer at [CI&T](https://ciandt.com/br/pt-br). 
-You can see some of my projects on my [Portfolio](https://wwww.felipas.com)
+You can see some of my projects on my [Portfolio](https://www.felipas.com)
 
 Here are some ideas to get you started:
 
