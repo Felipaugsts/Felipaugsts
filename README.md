@@ -1,7 +1,9 @@
 ### Hello folks!!  👋
 
 <!--
-**Felipaugsts/Felipaugsts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**My name is Felipe Augusto, I'm a Braziliand sofware developer/ios engineer currently living in São Paulo, BR.
+I'm working as an IOS developer at [CI&T](https://ciandt.com/br/pt-br). 
+You can see some of my projects on my [Portfolio](wwww.felipas.com)
 
 Here are some ideas to get you started:
 
