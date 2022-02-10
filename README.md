@@ -1,6 +1,6 @@
 ### Hello folks!!  👋
 
-My name is Felipe Augusto, I'm a Brazilin software developer/ios engineer currently living in São Paulo, Brazil.
+My name is Felipe Augusto, I'm a Brazilin software developer currently living in São Paulo, Brazil.
 I'm working as an IOS developer at [CI&T](https://ciandt.com/br/pt-br). 
 You can see some of my projects on my [Portfolio](https://www.felipas.com)
 
