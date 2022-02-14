@@ -12,3 +12,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: [WhatsApp](https://api.whatsapp.com/send?phone=5515996907676)
 - ⚡ Fun fact: I love coffee, music, travel, dogs... 
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipaugsts)](https://github.com/Felipaugsts/github-readme-stats)
